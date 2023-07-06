@@ -29,6 +29,9 @@ Markdown
 
 ## Meta
 Cristiano Mendonça Gueivara
+
+
 [<img src="images/linkedinIcon.png">](https://sspectro.github.io/ "Minha Página no Linkedin")
+
 
 [<img src="images/githubIcon.png">](https://github.com/sspectro/sspectro.github.io/ "Meu perfil no github")
